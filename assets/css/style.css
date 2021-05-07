@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    background-image: url("../img/background.jpg");
+    background-color: #cccccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+
+}
+.pikaHeader{
+    background-color: grey;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 5px 5px 5px darkgrey;
+    padding: 10px 30px;
+       
+}
+.pikaTextMenu{
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+.pikaTittle{
+    font-size:x-large;
+    font-weight: 800;
+    color: white;
+}
+.pikaWelcomeTittle{
+    font-size:xxx-large;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    text-transform: capitalize;
+}
+.pikaList{
+
+    text-transform: capitalize;
+}
+.pikaImage{
+    text-align: center;
+    overflow: hidden;
+    background-size: cover;
+    justify-content: center;
+}
+.pikaImage  img{
+    max-width: 100%;
+}
+.pikaContent{
+    margin-top: 20px;
+    padding: 10px 0px 30px 30px;
+    color: grey;
+    text-decoration: none;
+    background-color: rgba(119, 119, 119, 0.7);
+    border-radius:20px;
+    box-shadow: 5px 5px 5px darkgrey;
+}
