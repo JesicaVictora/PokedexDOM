@@ -1,5 +1,7 @@
 POKEMON DOM
 
+demo  http://pikadex.jesicavictora.es/
+
 Web creada completamente desde js con el manejo de DOM .
 
 El index solo contiene un "main" desde el cual se construye todo el site.
